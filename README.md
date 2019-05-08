@@ -2,7 +2,7 @@
 
 ## Description:
 
-###### This project is using:
+### This project is using:
 + An Arduino Uno R3 board
 + A led matrix 8x8
 + Four buttons
