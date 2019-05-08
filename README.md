@@ -21,7 +21,7 @@
 ---
 ![alt text](https://github.com/melisazanier/Arduino_Uno_maze_project_with_enemies/blob/master/ProjectSetup.jpg "Setup")
 
-#### The 7 levels
+#### The levels organized 
 ---
 ###### Level 1
 ![alt text](https://github.com/melisazanier/Arduino_Uno_maze_project_with_enemies/blob/master/maps/map%201/1_map.png "Level 1")
