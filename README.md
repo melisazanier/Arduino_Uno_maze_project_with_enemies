@@ -8,8 +8,8 @@
 + Four buttons
 + Four resistors
 + A breadbord
-+ Some mother-father cables
-+ Some father-father cables
++ Some mother-father wires
++ Some father-father wires
       
 ###### This project is a fun way to create your own game (maze game).
 ###### The project contains 7 levels, 2 of them having a number of enemies. If the enemy kills you, you will need to start the game again from level 1.
